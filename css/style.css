@@ -137,3 +137,11 @@ img.example1 {
 .thinness {
   color: rgba(0, 0, 0, 0.6)
 }
+
+.oxs {
+  width: 650px;
+}
+
+.thinness {
+  width: 680px;
+}
